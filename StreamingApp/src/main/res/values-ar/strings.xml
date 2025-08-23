@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سينما ستريم</string>
+    
+    <!-- Main Menu -->
+    <string name="movies">الأفلام</string>
+    <string name="tv_shows">المسلسلات</string>
+    <string name="live_tv">البث المباشر</string>
+    <string name="settings">الإعدادات</string>
+    <string name="search">البحث</string>
+    
+    <!-- Movie Categories -->
+    <string name="action">أكشن</string>
+    <string name="comedy">كوميديا</string>
+    <string name="drama">دراما</string>
+    <string name="horror">رعب</string>
+    <string name="romance">رومانسي</string>
+    <string name="sci_fi">خيال علمي</string>
+    <string name="thriller">إثارة</string>
+    <string name="documentary">وثائقي</string>
+    <string name="animation">أنيميشن</string>
+    <string name="adventure">مغامرة</string>
+    
+    <!-- Player Controls -->
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="stop">إيقاف</string>
+    <string name="forward">تقديم</string>
+    <string name="rewind">ترجيع</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="subtitles">الترجمة</string>
+    <string name="audio_tracks">الصوت</string>
+    <string name="quality">الجودة</string>
+    
+    <!-- Quality Options -->
+    <string name="quality_auto">تلقائي</string>
+    <string name="quality_720p">720p</string>
+    <string name="quality_1080p">1080p</string>
+    <string name="quality_4k">4K</string>
+    
+    <!-- General -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="back">رجوع</string>
+    <string name="close">إغلاق</string>
+    <string name="download">تحميل</string>
+    <string name="share">مشاركة</string>
+    <string name="favorite">المفضلة</string>
+    
+    <!-- Movie Details -->
+    <string name="plot">القصة</string>
+    <string name="cast">الممثلون</string>
+    <string name="director">المخرج</string>
+    <string name="year">السنة</string>
+    <string name="rating">التقييم</string>
+    <string name="duration">المدة</string>
+    <string name="watch_now">شاهد الآن</string>
+    <string name="watch_trailer">شاهد الإعلان</string>
+    
+    <!-- Live TV -->
+    <string name="news">الأخبار</string>
+    <string name="sports">الرياضة</string>
+    <string name="entertainment">الترفيه</string>
+    <string name="kids">الأطفال</string>
+    <string name="music">الموسيقى</string>
+    
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="arabic">عربي</string>
+    <string name="english">إنجليزي</string>
+    <string name="default_quality">الجودة الافتراضية</string>
+    <string name="autoplay_next">تشغيل تلقائي للحلقة التالية</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="about">حول التطبيق</string>
+    <string name="version">الإصدار</string>
+    
+    <!-- Search -->
+    <string name="search_hint">ابحث عن الأفلام والمسلسلات...</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="recent_searches">عمليات البحث الأخيرة</string>
+    
+    <!-- Episodes -->
+    <string name="season">الموسم</string>
+    <string name="episode">الحلقة</string>
+    <string name="episodes">الحلقات</string>
+    <string name="next_episode">الحلقة التالية</string>
+    <string name="previous_episode">الحلقة السابقة</string>
+</resources>
